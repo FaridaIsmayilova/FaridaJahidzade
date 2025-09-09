@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FaridaJahidzade
+- 👋 Hi, I’m @FaridaIsmayilova
 - 👀 I’m interested in practicing my programming skills
 - 🌱 I’m currently learning mobile application
 - 💞️ I’m looking to collaborate on creating a mobile app
